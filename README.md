@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Qualidade QA e Teste
 - 🤔 Estou procurando ajuda com Ferramentas automação de Teste e Qualidade QA
 - 📫 Como chegar até mim: roberto.pellizzaro@live.com
-- ⚡ Curiosidade: Prograação. C#, Frond-End, Html, Css, React.
+- ⚡ Curiosidade: Progração C#, Frond-End, Html, Css, React.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
