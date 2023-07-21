@@ -11,9 +11,11 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+<!--
 <div>
   <img align="center" alt="GIF" height="50" width="700" src="">
 </div>
+-->
 
   ##
  
