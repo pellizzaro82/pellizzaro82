@@ -5,7 +5,7 @@ Profissional dedicado ao mundo da Qualidade de Software e Testes.
 Experiência:<br>
 🌱 Atualmente,trabalhandoem Testes de Software e Qualidade, onde tenho a oportunidade de aprimorar minhas habilidades.<br>
 🤔 Minha experiência inclui a elaboração de planos de testes detalhados e abrangentes para garantir a qualidade de software.<br>
-🤖 Automação de testes utilizando o Cypress, uma ferramenta poderosa para testes de front-end e Apis.<br>
+🤖 Automação de testes utilizando o Cypress para testes de Apis e front-end.<br>
 
 Contato:<br>
 📫 Você pode entrar em contato comigo pelo e-mail: robertopellizzaro@yahoo.com
