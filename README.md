@@ -11,7 +11,7 @@ Contato:<br>
 📫 Você pode entrar em contato comigo pelo e-mail: robertopellizzaro@yahoo.com
 
 Curiosidade:<br>
-⚡ Curiosidade: Tenho conhecimento em programação em C#, desenvolvimento front-end com HTML, CSS, React e JavaScript, o que me permite uma abordagem abrangente no campo de Testes de Software.<br><br>
+⚡ Curiosidade: Programação em C#, Campo de Testes de Software.<br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
