@@ -19,7 +19,7 @@ Curiosidade:<br>
   <img align="center" alt="CSS"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cypress" height="30" width="30" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
-  <img align="center" alt="Cypress" height="50" width="50" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-4.gif">
+  <img align="center" alt="Cypress" height="250" width="250" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-4.gif">
 </div>
 
   ##
