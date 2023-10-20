@@ -1,9 +1,17 @@
 ### Olá eu sou o Roberto👋
 
-- 🌱 Atualmente estou aprendendo Qualidade QA e Teste
-- 🤔 Estou procurando ajuda com Ferramentas automação de Teste e Qualidade QA
-- 📫 Como chegar até mim: roberto.pellizzaro@live.com
-- ⚡ Curiosidade: Progração C#, Frond-End, Html, Css, React, JavaScript
+Profissional dedicado ao mundo da Qualidade de Software e Testes.
+
+Experiência:
+🌱 Atualmente, estou focado no campo de Testes de Software e Qualidade, onde tenho a oportunidade de aprimorar minhas habilidades.
+🤔 Minha experiência inclui a elaboração de planos de testes detalhados e abrangentes para garantir a qualidade de software.
+🤖 Automação de testes utilizando o Cypress, uma ferramenta poderosa para testes de front-end e Apis.
+
+Contato:
+📫 Você pode entrar em contato comigo pelo e-mail: robertopellizzaro@yahoo.com
+
+Curiosidade:
+⚡ Curiosidade: Tenho conhecimento em programação em C#, desenvolvimento front-end com HTML, CSS, React e JavaScript, o que me permite uma abordagem abrangente no campo de Testes de Software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
